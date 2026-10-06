@@ -1,6 +1,6 @@
 # Supplementary code for "Spectral Density Estimation for Normal Matrices"
 
-This folder contains MATLAB implementations of Algorithms 1–3 of the paper (https://arxiv.org/abs/2605.31430) and two scripts that reproduce Figures 1 and 2.
+This folder contains MATLAB implementations of Algorithms 1–3 of the paper "Spectral density estimation for normal matrices" (https://arxiv.org/abs/2605.31430) and two scripts that reproduce Figures 1 and 2.
 
 ## Requirements
 
